@@ -1,6 +1,6 @@
 # NahamConCTF-2020
 
-<p align="center">
+<p align="center" height="30" width="30">
   <img src="logo.png">
 </p>
 

@@ -1,8 +1,6 @@
 # NahamConCTF-2020
 
-<p align="center" height="30" width="30">
-  <img src="logo.png">
-</p>
+A walkthrogh of the challenges I solved at NahamConCTF-2020
 
 > Fri, 12 June 2020, 15:00 UTC — Sat, 13 June 2020, 22:00 UTC
 
